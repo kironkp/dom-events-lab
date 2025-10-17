@@ -104,6 +104,5 @@ function render() {
 }
 
 
-// initial paint
 render();
 
