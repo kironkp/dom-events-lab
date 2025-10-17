@@ -1,3 +1,12 @@
+/*
+  DOM Events Lab Calculator Stylesheet
+  Purpose: Provide styling for the calculator layout defined in index.html.
+  The rules below style the overall body, the display area, the calculator container, rows, and buttons.
+*/
+/* Reset box sizing to include padding and border in total width/height */
+/* Center the calculator on the page and set base font properties */
+
+
 * {
   box-sizing: border-box;
 }
